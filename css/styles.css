@@ -233,11 +233,12 @@ gap: 40px;
 }
 
 .studio-sub-menu{
-
+padding: 24px 0;
 }
 
 .logo{
-  padding: 24px 0;
+  margin-right: 76px;
+  
 }
 
 
