@@ -229,7 +229,7 @@ align-items: center;
 .menu{
 display: flex;
 gap: 40px;
-padding: 24px 0;
+
 }
 
 .studio-sub-menu{
@@ -237,10 +237,7 @@ padding: 24px 0;
 }
 
 .logo{
-  margin-right: 76px;
-  padding-top: 25.5px;
-  padding-bottom: 25.5px;
-  padding-left: 156px;
+  padding: 24px 0;
 }
 
 
