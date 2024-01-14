@@ -340,6 +340,7 @@ border-radius: 0px 0px 4px 4px;
 
 .our-portfolio-title{
   margin-bottom: 72px;
+  margin-left: 611px;
 
 }
 
@@ -371,4 +372,15 @@ width: calc((100% - 48px) / 3);
 .box-end .container .logo{
   display: inline-block;
   margin-bottom: 16px;
+}
+
+.foter-description{
+  max-width: 264px;
+}
+
+.logo,
+.studio-sub-menu,
+.adress-data
+{
+  text-decoration: none;
 }
