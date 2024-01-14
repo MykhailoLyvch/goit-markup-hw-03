@@ -222,12 +222,12 @@ header {
 .page-nav{
 display: flex;
 align-items: center;
+gap: 40px
 }
 
 
 .menu{
 display: flex;
-gap: 40px
 padding: 24px, 0;
 
 }
