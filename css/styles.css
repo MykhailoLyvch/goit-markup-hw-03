@@ -290,3 +290,10 @@ padding: 24px 0;
   margin-left: 156px;
 }
 
+.list-item{
+flex-basis: calc((100% - 72px) / 4);
+}
+
+.title{
+  margin-bottom: 8px;
+}
