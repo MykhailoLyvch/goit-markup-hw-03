@@ -222,14 +222,17 @@ header {
 .page-nav{
 display: flex;
 align-items: center;
-gap: 40px
+
 }
 
 
 .menu{
 display: flex;
-padding: 24px, 0;
+gap: 40px;
+}
 
+.studio-sub-menu{
+padding: 24px, 0;
 }
 
 .logo{
