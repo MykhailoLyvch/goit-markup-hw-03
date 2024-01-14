@@ -295,6 +295,11 @@ flex-basis: calc((100% - 72px) / 4);
 
 .title{
   margin-bottom: 8px;
+  text-align: center;
+}
+
+.profesion{
+  text-align: center;
 }
 
 .our-team-content{
@@ -313,4 +318,12 @@ flex-basis: calc((100% - 72px) / 4);
   display: flex;
   gap: 24px;
   
+}
+
+.our-team-img{
+border-radius: 0px 0px 4px 4px;
+}
+
+.card-info{
+  padding: 32px 0;
 }
