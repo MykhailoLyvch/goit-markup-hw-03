@@ -48,13 +48,13 @@ color: #404bbf;
 }
 
 .kontakt-box {
-   font-style: normal;
- }
+font-style: normal;
+}
 
 .adress-data{
   color: #434455;
   line-height: 1.5;
-   font-size: 16px;
+  font-size: 16px;
   letter-spacing: 0.32px;
   
 }
@@ -95,7 +95,7 @@ color: #404bbf;
 .h2 {
   color: #2e2f42;
   text-align: center;
-   font-size: 36px;
+  font-size: 36px;
   letter-spacing: 0.72px;
   text-transform: capitalize;
 }
@@ -174,4 +174,42 @@ color: #F4F4FD;
 font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.32px;
+}
+
+h1,h2,h3,h4,h5,h6{
+margin-top: 0;
+  margin-bottom: 0;
+}
+
+p{
+margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul{
+  margin-top: 0;
+  margin-bottom: 0;
+  padding-left: 0;
+}
+
+
+.top-line  .container {
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-shrink: 0;
+
+  max-width: 1158px;
+  padding-left: 156px;
+  padding-right: 156px;
+  margin-left: 0;
+  margin-right:0;
+
+}
+
+.logo{
+  padding-top: 25.5px;
+  padding-bottom: 25.5px;
+  padding-right: 76px;
 }
