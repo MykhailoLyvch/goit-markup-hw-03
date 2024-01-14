@@ -207,14 +207,23 @@ header {
 .top-line  .container {
 
   display: flex;
+  
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
   background: #FFF;
   width: 1158px;
   margin: 0 auto
+  padding: 0 15px;
   
 }
+
+
+.page-nav{
+display: flex;
+align-items: center;
+}
+
 
 .menu{
 display: flex;
