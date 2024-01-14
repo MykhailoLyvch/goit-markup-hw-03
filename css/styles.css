@@ -296,3 +296,21 @@ flex-basis: calc((100% - 72px) / 4);
 .title{
   margin-bottom: 8px;
 }
+
+.our-team-content{
+    padding: 120px 0;
+}
+
+.our-team-content .container{
+  display: flex;
+}
+
+.our-team-title{
+  margin-bottom: 72px;
+}
+
+.our-team-list{
+  display: flex;
+  gap: 24px;
+  
+}
