@@ -227,19 +227,19 @@ align-items: center;
 
 .menu{
 display: flex;
-padding-left: 76px;
-padding-right: 332;
 gap: 40px
-
+padding: 24px, 0;
 
 }
 
 .logo{
-  
+  margin-right: 76px;
   padding-top: 25.5px;
   padding-bottom: 25.5px;
   padding-left: 156px;
 }
+
+
 
 
 
