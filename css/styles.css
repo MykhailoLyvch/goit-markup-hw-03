@@ -1,3 +1,7 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   font-family: "Roboto", sans-serif;
   background-color: #ffffff;
@@ -199,17 +203,33 @@ ul{
   justify-content: space-between;
   align-items: center;
   flex-shrink: 0;
-
+  border-bottom: 1px solid #E7E9FC;
+  background: #FFF;
   max-width: 1158px;
-  padding-left: 156px;
-  padding-right: 156px;
   margin-left: 0;
   margin-right:0;
 
 }
 
+.menu{
+display: flex;
+padding-left: 76px;
+padding-right: 332;
+gap: 40px
+
+
+}
+
 .logo{
+  
   padding-top: 25.5px;
   padding-bottom: 25.5px;
-  padding-right: 76px;
+  padding-left: 156px;
+}
+
+
+
+.kontakt-box{
+  display: flex;
+  gap: 40px;
 }
