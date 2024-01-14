@@ -218,6 +218,10 @@ header {
   
 }
 
+.logo {
+  margin-right: 76px;
+
+}
 
 .page-nav{
 display: flex;
@@ -236,26 +240,23 @@ gap: 40px;
 padding: 24px 0;
 }
 
-.logo{
-  margin-right: 76px;
-  
-}
-
-
-
 
 
 .kontakt-box{
   display: flex;
   gap: 40px;
-  padding-right: 156px;
+  
+}
+
+.hero{
+  padding: 188px 0;
 }
 
 .hero .container{
   display: flex;
   flex-direction: column;
   justify-content: center;
-  max-width: 1440px;
+  max-width: 1158px;
   margin-left: 0;
   margin-right: 0;
   
