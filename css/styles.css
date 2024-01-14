@@ -253,23 +253,20 @@ padding: 24px 0;
 }
 
 .hero .container{
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  max-width: 1158px;
-  margin-left: 0;
-  margin-right: 0;
-  
+  width: 1158px;
+    
 }
 
 .container .hero-content{
   max-width: 496px;
-   
+  margin-left: 472px;
+  text-align: center;
 }
 
 .container .hero-btn{
   display: block;
   padding: 16px 32px;
+  margin-left: 636px;
   min-width: 169px;
   height: 56px;
   border: none;
