@@ -249,16 +249,13 @@ header {
 }
 
 .container .hero-content {
-  display: block;
+  display: inline-block;
   max-width: 496px;
-  margin-left: 472px;
-  text-align: center;
 }
 
 .container .hero-btn {
   display: block;
   padding: 16px 32px;
-  margin-left: 636px;
   margin-top: 48px;
   min-width: 169px;
   height: 56px;
