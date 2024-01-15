@@ -249,8 +249,8 @@ header {
 }
 
 .container .hero-content {
-  display: inline-block;
   max-width: 496px;
+  margin: 0 auto 48px;
 }
 
 .container .hero-btn {
@@ -258,6 +258,7 @@ header {
   padding: 16px 32px;
   margin-top: 48px;
   min-width: 169px;
+  margin: 0 auto;
   height: 56px;
   border: none;
   border-radius: 4px;
@@ -284,7 +285,6 @@ header {
 .list {
   display: flex;
   gap: 24px;
-  margin-left: 156px;
 }
 
 .list-item {
@@ -293,7 +293,6 @@ header {
 
 .title {
   margin-bottom: 8px;
-  text-align: center;
 }
 
 .profesion {
@@ -327,6 +326,7 @@ header {
 
 .card-info {
   padding: 32px 0;
+  text-align: center;
 }
 
 .our-portfolio-content {
@@ -337,6 +337,13 @@ header {
   display: block;
   margin-bottom: 72px;
   text-align: center;
+  color: #2e2f42;
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.1;
+  letter-spacing: 0.72px;
+  text-transform: capitalize;
 }
 
 .our-portfolio-list {
@@ -365,7 +372,6 @@ header {
 
 .box-end .container .logo {
   display: inline-block;
-  margin-bottom: 16px;
 }
 
 .foter-description {
