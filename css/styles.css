@@ -372,6 +372,7 @@ header {
 
 .box-end .container .logo {
   display: inline-block;
+  margin: 0 auto 17.5px;
 }
 
 .foter-description {
