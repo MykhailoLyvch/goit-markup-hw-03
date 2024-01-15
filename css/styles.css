@@ -244,9 +244,12 @@ header {
 
 .hero .container {
   width: 1158px;
+  padding: 0 15px;
+  margin: 0 auto;
 }
 
 .container .hero-content {
+  display: block;
   max-width: 496px;
   margin-left: 472px;
   text-align: center;
